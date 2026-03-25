@@ -1,0 +1,88 @@
+============================================================
+GENERATED NAME SAMPLES FROM ALL MODELS
+============================================================
+
+
+Vanilla RNN:
+----------------------------------------
+Novelty Rate: 97.14%
+Diversity: 93.33%
+Unique Names: 140
+
+Sample Generated Names:
+   1. Aryan Shind
+   2. Myra Brar
+   3. Galna  Yada
+   4. Gallav Rao
+   5. Radha Shukl
+   6. Kavya  Agar
+   7. Rahul  Pand
+   8. Priya Sharm
+   9. Shaur Bajwa
+  10. Manish Ali
+  11. Galna S Sha
+  12. Gall Ali
+  13. Neha  Raja
+  14. Vivaa Sunda
+  15. Shiv  Pand
+  16. Kavya Chava
+  17. Diya  Rajp
+  18. Anaya  Pand
+  19. Neha P Gil
+  20. Nikhil  Pate
+
+Bidirectional LSTM:
+----------------------------------------
+Novelty Rate: 100.00%
+Diversity: 97.33%
+Unique Names: 146
+
+Sample Generated Names:
+   1. Divya Anana
+   2. Priv Raiav
+   3. Nikaksh Kadaa
+   4. Niki Asans
+   5. Manika Takan
+   6. Naikal Sanda
+   7. Nehaan Triak
+   8. Nehaa Kanan
+   9. Meara Chana
+  10. Manis Sansn
+  11. Prii Anana
+  12. Saank Sandh
+  13. Maksin Sriks
+  14. Gaara Rajat
+  15. Ruddan Majas
+  16. Gasdd Vaidw
+  17. Divyaa Sanda
+  18. Pallaa Avana
+  19. Arju Tiawa
+  20. Saana Anana
+
+RNN with Attention:
+----------------------------------------
+Novelty Rate: 94.33%
+Diversity: 94.00%
+Unique Names: 141
+
+Sample Generated Names:
+   1. Neha Th Du
+   2. Vivaa Dubey
+   3. Pooja Sidhu
+   4. Pooja  Raja
+   5. Raj Kum A
+   6. Pooja  Rao
+   7. Mani Jha
+   8. Gavn Rajpu
+   9. Viva Sunda
+  10. Ananya Siddi
+  11. Divya Gupta
+  12. Kabir  Raja
+  13. Divy Rajan
+  14. Neha Ku De
+  15. Shiv G Ela
+  16. Anaya Dubey
+  17. Raj Si De
+  18. Kunal Gupta
+  19. Kabi Easwa
+  20. Rudra  Raja
